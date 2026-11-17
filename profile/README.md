@@ -5,7 +5,7 @@
 ### 支持车型
 
 - ID3/ID4 < 2024：请从[这里入门](https://github.com/vw-id-headunit-lab/icas3-agl-root)
-- ID3/ID4 >= 2024：暂未支持
+- ID3/ID4 >= 2024：请点击[这里](https://github.com/vw-id-headunit-lab/a3-root)
 
 ### 已有特性：
 
