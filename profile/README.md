@@ -1,12 +1,13 @@
-## Hi there 👋
+## VW-ID 车机研究俱乐部 👋
 
-<!--
+欢迎加入VW-ID 车机研究俱乐部 👋，这里是群车机研究爱好者
 
-**Here are some ideas to get you started:**
+### 支持车型
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- ID3/ID4 < 2024：请从[这里入门](https://github.com/vw-id-headunit-lab/icas3-agl-root)
+- ID3/ID4 >= 2024：暂未支持
+
+### 已有特性：
+
+- 灯光精灵carplay联动：[点击这里](https://github.com/vw-id-headunit-lab/smartlight-agl)
+- 持续加入，尽情期待
