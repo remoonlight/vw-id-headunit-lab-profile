@@ -11,8 +11,8 @@
 
 ### 联网问题：
 
-- 网关补丁：[点击这里]([https://github.com/vw-id-headunit-lab/smartlight-agl](https://github.com/vw-id-headunit-lab/http-gateway-patch))
-- 白名单补丁：[点击这里]([https://github.com/vw-id-headunit-lab/ivi-whitelist-manager))
+- 网关补丁：[点击这里](https://github.com/vw-id-headunit-lab/http-gateway-patch)
+- 白名单补丁：[点击这里](https://github.com/vw-id-headunit-lab/ivi-whitelist-manager)
 
 ### 已有特性：
 
