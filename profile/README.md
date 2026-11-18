@@ -9,7 +9,17 @@
 
 `a3-root` 当前项目平台为上述 ID.3 MKII 配置，其他车型和软件版本的适用性需单独验证。
 
+### 联网问题：
+
+- 网关补丁：[点击这里]([https://github.com/vw-id-headunit-lab/smartlight-agl](https://github.com/vw-id-headunit-lab/http-gateway-patch))
+- 白名单补丁：[点击这里]([https://github.com/vw-id-headunit-lab/ivi-whitelist-manager))
+
 ### 已有特性：
 
 - 灯光精灵carplay联动：[点击这里](https://github.com/vw-id-headunit-lab/smartlight-agl)
 - 持续更新，敬请期待。
+
+### 开发虚拟机
+
+- 安卓虚拟机：[点击这里](https://github.com/vw-id-headunit-lab/android-firmware-qemu-bench)
+- HMI虚拟机：[点击这里](https://github.com/vw-id-headunit-lab/icas3-hmi-bench)
